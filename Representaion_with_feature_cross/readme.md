@@ -196,13 +196,3 @@ my_model.evaluate(x=test_features, y=test_label, batch_size=batch_size)
     [8559.595703125, 92.51808166503906]
 
 
-
-
-```python
-
-```
-
-
-```python
-
-```
